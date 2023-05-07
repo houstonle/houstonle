@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/houstonle.github.io/static/css/main.65d46687.css",
-    "main.js": "/houstonle.github.io/static/js/main.a84f3518.js",
-    "static/media/financial.png": "/houstonle.github.io/static/media/financial.bd2b90a835da0b73f45f.png",
-    "static/media/logo.png": "/houstonle.github.io/static/media/logo.a9bdb3708903aba5a1a2.png",
-    "static/media/book.avif": "/houstonle.github.io/static/media/book.a50a1ffdb32473960b85.avif",
-    "index.html": "/houstonle.github.io/index.html",
-    "main.65d46687.css.map": "/houstonle.github.io/static/css/main.65d46687.css.map",
-    "main.a84f3518.js.map": "/houstonle.github.io/static/js/main.a84f3518.js.map"
+    "main.css": "/houstonle/static/css/main.65d46687.css",
+    "main.js": "/houstonle/static/js/main.578ca570.js",
+    "static/media/financial.png": "/houstonle/static/media/financial.bd2b90a835da0b73f45f.png",
+    "static/media/logo.png": "/houstonle/static/media/logo.a9bdb3708903aba5a1a2.png",
+    "static/media/book.avif": "/houstonle/static/media/book.a50a1ffdb32473960b85.avif",
+    "index.html": "/houstonle/index.html",
+    "main.65d46687.css.map": "/houstonle/static/css/main.65d46687.css.map",
+    "main.578ca570.js.map": "/houstonle/static/js/main.578ca570.js.map"
   },
   "entrypoints": [
     "static/css/main.65d46687.css",
-    "static/js/main.a84f3518.js"
+    "static/js/main.578ca570.js"
   ]
 }
