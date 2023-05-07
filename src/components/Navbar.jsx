@@ -3,6 +3,7 @@ import {FaBars, FaTimes, FaGithub, FaLinkedin, FaLinkedinIn} from 'react-icons/f
 import { HiOutlineMail } from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.png'
+import Resume from '../assets/houstonle_resume.pdf';
 import {Link} from 'react-scroll';
 
 const Navbar = () => {
@@ -83,7 +84,7 @@ const Navbar = () => {
 
           <li className='pl-8 pr-4 w-40 h-16 flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a className='flex justify-between items-center w-full text-gray-300 font-bold'
-            href='/'>
+            href={Resume} target='blank'>
               Resume <BsFillPersonLinesFill size={30}/>
             </a>
           </li>
