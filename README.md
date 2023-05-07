@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# My personal portolio website 
+
+It was built using React, HTML, and Tailwind CSS
+The website can be viewed at the following link: https://houstonle.github.io/houstonle/
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
