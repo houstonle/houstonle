@@ -1,6 +1,6 @@
 # My personal portolio website 
 
-It was built using React, HTML, and Tailwind CSS.\
+Built using React, HTML, and Tailwind CSS.\
 The website can be viewed at the following link: https://houstonle.github.io/houstonle/
 
 ## Getting Started with Create React App
