@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/houstonle/static/css/main.fb6e6c58.css",
-    "main.js": "/houstonle/static/js/main.1629a24a.js",
+    "main.js": "/houstonle/static/js/main.106313f0.js",
     "static/media/financial.png": "/houstonle/static/media/financial.bd2b90a835da0b73f45f.png",
     "static/media/logo.png": "/houstonle/static/media/logo.a9bdb3708903aba5a1a2.png",
     "static/media/houstonle_resume.pdf": "/houstonle/static/media/houstonle_resume.c3ccb7a0d0b3a24a5c1d.pdf",
     "static/media/book.avif": "/houstonle/static/media/book.a50a1ffdb32473960b85.avif",
     "index.html": "/houstonle/index.html",
     "main.fb6e6c58.css.map": "/houstonle/static/css/main.fb6e6c58.css.map",
-    "main.1629a24a.js.map": "/houstonle/static/js/main.1629a24a.js.map"
+    "main.106313f0.js.map": "/houstonle/static/js/main.106313f0.js.map"
   },
   "entrypoints": [
     "static/css/main.fb6e6c58.css",
-    "static/js/main.1629a24a.js"
+    "static/js/main.106313f0.js"
   ]
 }
